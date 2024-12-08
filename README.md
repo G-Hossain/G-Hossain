@@ -7,4 +7,6 @@ I’m the Lead Software Development Analyst at **TwinBit Limited**, where I cont
 Feel free to check out my repos.
 
 
-![Animewaifu](./giphy.gif)
+<div align="center">
+  <img src="./giphy.gif" alt="Animewaifu" />
+</div>
