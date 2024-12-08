@@ -5,3 +5,6 @@
 I’m the Lead Software Development Analyst at **TwinBit Limited**, where I contribute to the best of IOS mobile design and experience. My passion lies in making kickass design and mentoring the next generation of developers (more like a developer @myndaaa) to push the boundaries of what’s possible in tech.
 
 Feel free to check out my repos.
+
+
+![Animewaifu](./giphy.gif)
